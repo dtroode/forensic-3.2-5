@@ -32,3 +32,5 @@
 *.au
 *.wma
 *.au
+
+.DS_Store
